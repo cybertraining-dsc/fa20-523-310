@@ -70,16 +70,16 @@ medicine that can result in better individual health outcomes.
 <https://en.wikipedia.org/wiki/Human_genome>.
 
 [^2]: Sennaar, Kumba. “Machine Learning in Genomics - Current Efforts and Future Applications.”
-Emerj, Emerj, 28 Nov. 2019, emerj.com/ai-sector-overviews/machine-learning-in-genomics-
-applications/.
+Emerj, Emerj, 28 Nov. 2019, <https://emerj.com/ai-sector-overviews/machine-learning-in-genomics-
+applications/>.
 
 [^3]: Admin. “Mendelian Disorders -Different Types of Mendelian Disorders.” BYJUS, BYJU'S, 28
-July 2020, byjus.com/biology/mendelian-disorders/.[4] Lyons LA, Buckley RM. Direct-to-Consumer Genetic Testing for Domestic Cats. Vet Clin North
+July 2020, <https://byjus.com/biology/mendelian-disorders/>.[4] Lyons LA, Buckley RM. Direct-to-Consumer Genetic Testing for Domestic Cats. Vet Clin North
 Am Small Anim Pract. 2020 Sep;50(5):991-1000. doi: 10.1016/j.cvsm.2020.05.004. Epub 2020
 Jul 11. PMID: 32665138.
 
 [^5]: “Who Is Nebula Genomics?” Whole Genome Sequencing DNA Test | Nebula Genomics,
-nebula.org/whole-genome-sequencing/.
+<https://nebula.org/whole-genome-sequencing/>.
 
 [^6]: Suwinski P, Ong C, Ling MHT, Poh YM, Khan AM, Ong HS. Advancing Personalized Medicine
 Through the Application of Whole Exome Sequencing and Big Data Analytics. Front Genet. 2019
