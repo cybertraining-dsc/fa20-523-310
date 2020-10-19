@@ -67,7 +67,7 @@ medicine that can result in better individual health outcomes.
 ## References
 
 [^1]: “Human Genome.” Wikipedia, Wikimedia Foundation, 16 Oct. 2020,
-en.wikipedia.org/wiki/Human_genome.
+<en.wikipedia.org/wiki/Human_genome>.
 
 [^2]: Sennaar, Kumba. “Machine Learning in Genomics - Current Efforts and Future Applications.”
 Emerj, Emerj, 28 Nov. 2019, emerj.com/ai-sector-overviews/machine-learning-in-genomics-
