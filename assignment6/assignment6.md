@@ -85,4 +85,4 @@ Jul 11. PMID: 32665138.
 Through the Application of Whole Exome Sequencing and Big Data Analytics. Front Genet. 2019
 Feb 12;10:49. doi: 10.3389/fgene.2019.00049. PMID: 30809243; PMCID: PMC6379253.
 
-[^7]: Khan, R., Mittelman, D. Consumer genomics will change your life, whether you get tes
+[^7]: Khan, R., Mittelman, D. Consumer genomics will change your life, whether you get tested or not. Genome Biol 19, 120 (2018). <https://doi.org/10.1186/s13059-018-1506-1>
